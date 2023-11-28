@@ -2,7 +2,7 @@ const listings = [
   {
     id: 201,
     title: "Red jacket",
-    images: [{ fileName: "jacket1", url: "https://picsum.photos/200/300" }],
+    images: [{ fileName: "jacket1" }],
     price: 100,
     categoryId: 5,
     userId: 1,
