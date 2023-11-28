@@ -13,7 +13,7 @@ const users = [
   },
   {
     id: 3,
-    name: "Ben",
+    name: "Ben F",
     email: "bfouquet.123@gmail.com",
     password: "12345",
   },
